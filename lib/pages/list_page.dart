@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/src/foundation/key.dart';
-import 'package:flutter/src/widgets/framework.dart';
 import 'package:responsi_app/model/matches_model.dart';
 import 'package:responsi_app/pages/detail_matches_page.dart';
 import 'package:responsi_app/service/base_network.dart';
